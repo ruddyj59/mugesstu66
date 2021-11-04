@@ -536,7 +536,7 @@ label{
       width: 100%;
     }
     input[type="text"],input[type="email"], textarea,select {
-        width:100%;
+        width:80%;
         padding: 10px;
         box-sizing: border-box;
     }
